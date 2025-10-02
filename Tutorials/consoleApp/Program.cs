@@ -1,4 +1,6 @@
-﻿namespace TeleprompterConsole;
+﻿#region namespace
+namespace TeleprompterConsole;
+#endregion
 
 public class Program
 {

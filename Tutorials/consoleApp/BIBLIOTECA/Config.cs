@@ -1,6 +1,10 @@
-﻿using static System.Math;
+﻿#region using
+using static System.Math;
+#endregion
 
+#region namespace
 namespace TeleprompterConsole;
+#endregion
 
 internal class TelePrompterConfig
 {
